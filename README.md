@@ -74,10 +74,10 @@ I practiced:
 
 ## Live Demo
 
-
+ritual-by-likhachov.netlify.app
 
 ---
 
 ## GitHub Repository
 
-[ Repository Link Here ]
+https://github.com/SergioAlivero-ww/ritual-habit-tracker
