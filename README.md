@@ -74,7 +74,7 @@ I practiced:
 
 ## Live Demo
 
-ritual-by-likhachov.netlify.app
+https://ritual-by-likhachov.netlify.app
 
 ---
 
